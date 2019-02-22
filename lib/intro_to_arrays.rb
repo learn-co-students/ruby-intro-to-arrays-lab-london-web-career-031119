@@ -1,4 +1,4 @@
-def array 
+def make_new_Array
    Array.new
 end 
 
